@@ -34,7 +34,6 @@ defaults:
       image: true
 
 show_downloads: false
-#google_analytics: ....
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
