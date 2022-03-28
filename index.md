@@ -3,7 +3,7 @@ layout: default
 title: "CDR3.Net Руководство Пользователя"
 ---
 # Контакты
-**CDR3Net** at telegram  
+**CDR3Net** at Telegram
 # Новости
 #### 03/09/2021
 Для работы на кластере доступен новый вычислительный сервер minew
