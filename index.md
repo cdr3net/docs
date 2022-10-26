@@ -28,7 +28,7 @@ title: "CDR3.Net Руководство Пользователя"
   - [Mac OS](./ssh/macos.html)
   - [Linux (Unbuntu 18.04)](./ssh/linux.html)
 - [Настройка VNC](./vnc/setup.html)
-- [Настройка singularity](./singularity/setup.html)
+- [Работа с контейнерами через singularity](./singularity/setup.html)
 
 # Структура сети и сервера
 Вот примерная структура видная для пользователей (еще есть бэкап сервера, и всякая сетевая инфраструктура):
